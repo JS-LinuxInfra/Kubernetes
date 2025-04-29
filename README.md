@@ -36,7 +36,7 @@ This project completed the following operational tasks. Screenshots are provided
 ### Validate the image used by the pods by the deployment.
 ![Step10](images/step10.jpg)
 
-### Validate the current number of running pods, dployments and replicasets.
+### Validate the current number of running pods, deployments and replicasets.
 ![Step11](images/step11.jpg)
 
 ### Update the image used by the deployment.
