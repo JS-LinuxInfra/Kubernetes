@@ -7,7 +7,7 @@ This project completed the following operational tasks. Screenshots are provided
 ## Steps
 
 ### Determine the node count, cluster information, and the host operating system.
-!(images/step1.jpg)
+![Step1](images/step1.jpg)
 
 ### Step 2: Delete a pod, create manifest file, monitor pod creation status, confirm number of pods running matches what is in the manifest file.
 ![Step2](images/step2.jpg)
