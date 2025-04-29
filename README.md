@@ -2,7 +2,7 @@
 Kubernetes Infrastructure and Application Orchestration
 
 ## Scope
-This project completed the following operational tasks. Screenshots are provided for each task completed, as well as the syntax used and why this task was executed.
+This project covers a series of operational Kubernetes tasks. Each step includes screenshots, the commands used, and an explanation of the task's purpose. The focus areas include cluster and ReplicaSet deployment (manual and automated), pod management, manifest creation and modification, and live troubleshooting.
 
 ## Tasks
 
