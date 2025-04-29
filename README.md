@@ -30,26 +30,23 @@ This project completed the following operational tasks. Screenshots are provided
 ### Create the manifest for new deployment, then created new deployment off manifest.
 ![Step8](images/step8.jpg)
 
-### Create the manifest for new deployment, then created new deployment off manifest.
+### Validate the image used by the pods by the deployment.
 ![Step9](images/step9.jpg)
 
-### Validate the image used by the pods by the deployment.
+### Validate the current number of running pods, deployments and replicasets.
 ![Step10](images/step10.jpg)
 
-### Validate the current number of running pods, deployments and replicasets.
+### Update the image used by the deployment.
 ![Step11](images/step11.jpg)
 
-### Update the image used by the deployment.
+### Determine the image and the update strategy type used by the deployment.
 ![Step12](images/step12.jpg)
 
-### Determine the image and the update strategy type used by the deployment.
+### Determine the image used by the pods from the deployment.
 ![Step13](images/step13.jpg)
 
-### Determine the image used by the pods from the deployment.
+### Review services running on the cluster to determine the endpoints, labels and target port.
 ![Step14](images/step14.jpg)
 
-### Review services running on the cluster to determine the endpoints, labels and target port.
-![Step15](images/step15.jpg)
-
 ### Configure NodePort manifest for use with the cluster.
-![Step16](images/step16.jpg)
+![Step15](images/step15.jpg)
