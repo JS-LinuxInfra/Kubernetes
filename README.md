@@ -33,20 +33,23 @@ This project completed the following operational tasks. Screenshots are provided
 ### Validate the image used by the pods by the deployment.
 ![Step9](images/step9.jpg)
 
-### Validate the current number of running pods, deployments and replicasets.
+### Review deployment manifest for accuracy.
 ![Step10](images/step10.jpg)
 
-### Update the image used by the deployment.
+### Validate the current number of running pods, deployments and replicasets.
 ![Step11](images/step11.jpg)
 
-### Determine the image and the update strategy type used by the deployment.
+### Update the image used by the deployment.
 ![Step12](images/step12.jpg)
 
-### Determine the image used by the pods from the deployment.
+### Determine the image and the update strategy type used by the deployment.
 ![Step13](images/step13.jpg)
 
-### Review services running on the cluster to determine the endpoints, labels and target port.
+### Determine the image used by the pods from the deployment.
 ![Step14](images/step14.jpg)
 
-### Configure NodePort manifest for use with the cluster.
+### Review services running on the cluster to determine the endpoints, labels and target port.
 ![Step15](images/step15.jpg)
+
+### Configure NodePort manifest for use with the cluster.
+![Step16](images/step16.jpg)
