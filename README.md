@@ -2,12 +2,12 @@
 Kubernetes Deployment Automation, Management and Troubleshooting
 
 ## Scope
-This project completed the following operational goals. Screenshots are provided for each step, as well as what syntax should be used to execute each step, why, and showcase the desired results.
+This project completed the following operational tasks. Screenshots are provided for each task completed, as well as the syntax used and why this task was executed.
 
 ## Steps
 
-### Step 1: Determine the node count, cluster information, and the host operating system.
-![Step1](images/step1.jpg)
+### Determine the node count, cluster information, and the host operating system.
+!(images/step1.jpg)
 
 ### Step 2: Delete a pod, create manifest file, monitor pod creation status, confirm number of pods running matches what is in the manifest file.
 ![Step2](images/step2.jpg)
