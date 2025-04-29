@@ -4,6 +4,12 @@ Kubernetes Infrastructure and Application Orchestration
 ## Scope
 This project covers a series of operational Kubernetes tasks. Each step includes screenshots, the commands used, and an explanation of the task's purpose. The focus areas include cluster and ReplicaSet deployment (manual and automated), pod management, manifest creation and modification, and live troubleshooting.
 
+## Environment
+- Kubernetes: v1.32.0+k3s1
+- kubectl for CLI management and troubleshooting
+- Operating System: Alpine Linux 3.16.9
+- YAML manifests both authored manually or provided and manipulated/updated during troubleshooting
+  
 ## Tasks
 
 ### Determine the node count, cluster information, and the host operating system.
