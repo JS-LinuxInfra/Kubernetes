@@ -4,7 +4,7 @@ Kubernetes Infrastructure and Application Orchestration
 ## Scope
 This project completed the following operational tasks. Screenshots are provided for each task completed, as well as the syntax used and why this task was executed.
 
-## Steps
+## Tasks
 
 ### Determine the node count, cluster information, and the host operating system.
 ![Step1](images/step1.jpg)
