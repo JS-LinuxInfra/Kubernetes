@@ -1,5 +1,5 @@
 # Kubernetes
-Kubernetes Deployment Automation, Management and Troubleshooting
+Kubernetes Infrastructure and Application Orchestration
 
 ## Scope
 This project completed the following operational tasks. Screenshots are provided for each task completed, as well as the syntax used and why this task was executed.
