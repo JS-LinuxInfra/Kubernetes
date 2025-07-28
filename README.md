@@ -1,11 +1,3 @@
-To-Do
-1. Apply the same process to K8 repo
-2. Create folders by task and service for all screen captures, move all images and update pointers, confirm everything looks good
-3. Create Go Repo
-4. Make Linked Post announcing changes and hashtag GCP, K8, Go
-5. Finish Udacity GCP course - upload and annotate all
-6. Start PluralSite GCP CDL cert course and use format going forward
-
 ## Scope
 This project covers a series of operational Kubernetes tasks. The focus areas include cluster and ReplicaSet deployment (manual and automated), pod management, manifest creation and modification, and troubleshooting.
 
