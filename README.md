@@ -37,9 +37,9 @@ This project covers a series of operational Kubernetes tasks. The focus areas in
 ### Host, Node, Pod, Cluster administration
 - 04012025 Horizontally scale the number of pods in the replicaset without editing the manifest, confirm that the number of running pods mirrors the updated count![Step6](images/step6.jpg)
 - 04012025 Update the replicaset with the correct image to ensure that the pods are deployed using the correct image![Step3](images/step3.jpg)
+- 04012025 Configure NodePort manifest for use with the cluster![Step16](images/step16.jpg)
 - 04012025 Created a new manifest and replicaset, updated the number of replicas in the manifest, confirmed the running pods were horizontally scaled after updating the replica count![Step7](images/step7.jpg)
 - 04012025 Create a manifest for the new deployment, then create the new deployment off of the manifest![Step8](images/step8.jpg)
-- 04012025 Configure NodePort manifest for use with the cluster![Step16](images/step16.jpg)
 - 04012025 Update the image being used by the deployment![Step12](images/step12.jpg)
 - 04012025 Delete a pod, create manifest file, monitor pod creation status, confirm the number of pods running matches what is in the manifest file![Step2](images/step2.jpg)
 
