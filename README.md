@@ -47,7 +47,7 @@ This project covers a series of operational Kubernetes tasks. The focus areas in
   ![HNPCA1-1](Host_Node_Pod_Cluster_Administration/HNPCA1-1.jpg)
 - 04012025 Update the replicaset with the correct image to ensure that the pods are deployed using the correct image
   ![HNPCA1-2](Host_Node_Pod_Cluster_Administration/HNPCA1-2.jpg)
-- 04012025 Configure NodePort manifest for use with the cluster
+- 04012025 Configure the NodePort manifest for use with the cluster  
   ![HNPCA1-3](Host_Node_Pod_Cluster_Administration/HNPCA1-3.jpg)
 - 04012025 Created a new manifest and replicaset, updated the number of replicas in the manifest, confirmed the running pods were horizontally scaled after updating the replica count
   ![HNPCA1-4](Host_Node_Pod_Cluster_Administration/HNPCA1-4.jpg)
