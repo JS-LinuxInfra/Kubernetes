@@ -55,7 +55,7 @@ This project covers a series of operational Kubernetes tasks. The focus areas in
   ![HNPCA1-5](Host_Node_Pod_Cluster_Administration/HNPCA1-5.jpg)
 - 04012025 Update the image being used by the deployment
   ![HNPCA1-6](Host_Node_Pod_Cluster_Administration/HNPCA1-6.jpg)
-- 04012025 Delete a pod, create the manifest file, monitor pod creation, confirm number of pods matches what is in the manifest file
+- 04012025 Delete a pod, create the manifest file, monitor pod creation, confirm number of pods matches what is in the manifest file  
   ![HNPCA1-7](Host_Node_Pod_Cluster_Administration/HNPCA1-7.jpg)
 
 ### Troubleshooting
