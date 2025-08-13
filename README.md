@@ -1,5 +1,5 @@
 ## Scope
-This project covers a series of operational Kubernetes tasks. The focus areas include cluster and ReplicaSet deployment (manual and automated), pod management, manifest creation and modification, and troubleshooting.
+This project covers a series of beginner Kubernetes tasks. The focus areas include cluster and ReplicaSet deployment (manual and automated), pod management, manifest creation and modification, and troubleshooting.
 
 ## Environment
 - Kubernetes: v1.32.0+k3s1
